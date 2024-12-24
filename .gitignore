@@ -2,3 +2,7 @@
 /calendar/target
 
 .DS_STORE
+
+# Chrome extension build output
+*.crx
+*.pem
