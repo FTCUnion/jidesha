@@ -1,4 +1,4 @@
-const BASE_DOMAIN = "meet.jit.si";
+const BASE_DOMAIN = "meet.ftcunion.org";
 const BASE_URL = "https://" + BASE_DOMAIN + "/";
 const APP_NAME = "Jitsi";
 const NUMBER_RETRIEVE_SCRIPT = false;
